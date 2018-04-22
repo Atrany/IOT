@@ -24,3 +24,9 @@ Le problème majeur que nous avons rencontré sont les drivers pour connecter l�
 
 
 Pour terminer, nous avons décider de remplacer l’orange PI par un programme JAVA sur l’ordinateur étant donné les difficultés rencontrés. 
+
+                                                                Annexe
+                                                                
+                                                                
+Nous avons pris en photo notre Arduino, et nous avons mis quelques explications pour les câbles. 
+![alt text](https://github.com/Atrany/IOT/blob/master/schema_explicatif.jpg)
